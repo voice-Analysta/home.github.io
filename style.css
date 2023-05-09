@@ -1,0 +1,18 @@
+*{
+  margin: 0px;
+  font-family: 'Poppins';
+}
+#alink{
+  color: #9F0028;
+  cursor: pointer;
+}
+#alink:hover{
+  color: #EF1346;
+}
+#bt1{
+  background-color: #EF1346;
+  color: white;
+}
+#bt1:hover{
+ background-color: #9F0028;  
+}
